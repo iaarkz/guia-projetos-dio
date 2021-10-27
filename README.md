@@ -7,3 +7,8 @@ Projeto criado a partir do bootcamp Impulso React Web Developer a partir das aul
 
 ## [Recriando o famoso jogo do dinossauro sem internet](https://github.com/iaarkz/dio-dino-game)
 Projeto criado a partir do bootcamp Impulso React Web Developer a partir das aulas Recriando o famoso jogo do dinossauro sem internet ministradas pelo Celso Henrique.
+
+
+## [Recriando a Interface do Netflix](https://github.com/iaarkz/recriando-interface-netflix)
+
+Projeto criado a partir do bootcamp Impulso React Web Developer a partir das aulas Recriando a Interface do Netflix ministradas pelo Felipe Aguiar.
