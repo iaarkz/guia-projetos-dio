@@ -15,8 +15,12 @@ Projeto criado a partir do bootcamp Impulso React Web Developer a partir das aul
 
 ## [Recriando o famoso jogo do dinossauro sem internet](https://github.com/iaarkz/dio-dino-game)
 
-Projeto criado a partir do bootcamp Impulso React Web Developer a partir das aulas Recriando o famoso jogo do dinossauro sem internet ministradas pelo Celso Henrique.
+Projeto criado a partir do bootcamp Impulso React Web Developer/Órbi Web Games Developer a partir das aulas Recriando o famoso jogo do dinossauro sem internet ministradas pelo Celso Henrique.
 
 ## [Criando Busca de Restaurantes com API Google Maps](https://github.com/iaarkz/pesquisa-restaurantes)
 
-Projeto criado a partir do bootcamp Impulso React Web Developer a partir das aulas Criando Busca de Restaurantes com API Google Maps ministradas pela Patrick Narciso.
+Projeto criado a partir do bootcamp Impulso React Web Developer a partir das aulas Criando Busca de Restaurantes com API Google Maps ministradas pelo Patrick Narciso.
+
+## [Criando seu próprio jogo da velha com HTML e Javascript](https://github.com/iaarkz/jogo-da-velha-dio)
+
+Projeto criado a partir do bootcamp Órbi Web Games Developer a partir das aulas Criando seu próprio jogo da velha com HTML e Javascript ministradas pelo Vitor Ruschoni.
